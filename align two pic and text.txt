@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="flex items-center justify-around ml-44 mt-20">
+        <div class="flex flex-row  w-30 mr-10">
+            <img src="./Assets/construction-2578410_1280.jpg" alt="" srcset="" class="w-48 h-80">
+            <img src="./Assets/construction-worker-569126_1280.jpg" alt="" srcset="" class="ml-4 w-48 h-80">
+        </div>
+        <div class="flex-column mr-44">
+            <h1 class="mt-2 text-3xl font-bold ">We Build Effective Top <br> Buildings</h1>
+            <p class="mt-2 text-xs text-[#FAA918]">The Majority have suffered alteration in some form humor or <br> wordswhich dont look even believable.</p>
+            <div class=" mt-4">
+                <div class="mt-2">
+                <div class="flex flex-row items-center">
+                  <span class=" w-8 h-8 bg-[#FAA918] " >
+                    <i class="fas fa-check flex center justify-center mt-2"></i>
+                  </span>
+                  <div class="">
+                    <h2 class="text-lg text-black font-bold ml-4">Best Construction Quality</h2>
+                  <p class="text-[#9C9C9C] text-xs ml-4 mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo, commodi!
+                  </p>
+                  </div>
+                </div>
+                <hr class="my-6 border-gray-300">
+                <div class="flex flex-row items-center mt-10">
+                    <span class=" w-8 h-8 bg-[#FAA918] " >
+                      <i class="fas fa-check flex center justify-center mt-2"></i>
+                    </span>
+                    <div class="">
+                        <h2 class="text-lg text-black font-bold ml-4">Best Construction Quality</h2>
+                      <p class="text-[#9C9C9C] text-xs ml-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo, commodi!
+                      </p>
+                      </div>
+                  </div>
+            </div>
+            
+              </div>
+            </div>
+        </div>
+</body>
+</html>
